@@ -1,2 +1,3 @@
-# EXN-DATA
+# EXN-DATABASE
 DATABASE NUMBER 🦠
+- By Zakrenz 🕊️
