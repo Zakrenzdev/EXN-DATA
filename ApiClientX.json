@@ -1,8 +1,67 @@
- {
+{
   "status": true,
   "criador": "Zakrenz Crasher Api Client",
   "resultado": {
-    "type": "md",
+    "type": "carlotta-crasher",
+    "platform": {
+      "type": ["android", "ios"],
+      "os": "12",
+      "device": "SM-G991B",
+      "browser": "Chrome/121.0.0.0",
+      "arch": "arm64-v8a",
+      "clientBuild": "2.2416.6",
+      "userAgent": "WhatsApp/2.25.15.80 Android/12 Device/SM-G991B"
+    },
+    "system": {
+      "uptime": 864000,
+      "memoryUsage": {
+        "rss": 1052672000,
+        "heapUsed": 623200000,
+        "external": 250000000
+      },
+      "cpu": {
+        "model": "Qualcomm Snapdragon 888",
+        "cores": 8,
+        "speedGHz": 2.84,
+        "temperature": "41°C"
+      }
+    },
+    "debug": {
+      "logLevel": "verbose",
+      "eventLoopLag": "7ms",
+      "packetBuffer": {
+        "queueSize": 1073741824,
+        "packetRate": 99999,
+        "overflowDropRate": "0.003%"
+      },
+      "errorRate": "0.01%",
+      "stackTraceDepth": 2048
+    },
+    "wsStatus": {
+      "handshake": true,
+      "compression": "zlib",
+      "ping": "3ms",
+      "packetsSent": 999999,
+      "packetsReceived": 1000000,
+      "packetLoss": "0.002%",
+      "floodMode": true,
+      "retryFloodCount": 999,
+      "lastFloodTimestamp": 1748316955000
+    },
+    "security": {
+      "mitmProxyDetected": false,
+      "rateLimitBypass": true,
+      "autoReconnect": true,
+      "antiLeak": "enabled",
+      "tamperProtection": "active"
+    },
+    "crashVector": {
+      "type": "context_overflow",
+      "triggerSize": 10485760,
+      "payloadDepth": 9999,
+      "binaryInjection": true,
+      "recursiveLoop": true
+    },
     "ws": {
       "_events": {
         "CB:ib,,dirty": ["Array"]
@@ -36,4 +95,4 @@
       }
     }
   }
- }
+      }
