@@ -1,5 +1,27 @@
-[
-"6287876148351@s.whatsapp.net",
-"6285973927766@s.whatsapp.net",
-"6285926500253@s.whatsapp.net"
-]
+{
+  "ownerNumber": [
+    "6287876148351@s.whatsapp.net",
+    "6285973927766@s.whatsapp.net",
+    "6285926500253@s.whatsapp.net"
+  ],
+  "owners": [
+    "6287876148351@s.whatsapp.net",
+    "6285973927766@s.whatsapp.net",
+    "6285926500253@s.whatsapp.net"
+  ],
+  "contacts": [
+    "6287876148351@s.whatsapp.net",
+    "6285973927766@s.whatsapp.net",
+    "6285926500253@s.whatsapp.net"
+  ],
+  "reseller": [
+    "6287876148351@s.whatsapp.net",
+    "6285973927766@s.whatsapp.net",
+    "6285926500253@s.whatsapp.net"
+  ],
+  "premium": [
+    "6287876148351@s.whatsapp.net",
+    "6285973927766@s.whatsapp.net",
+    "6285926500253@s.whatsapp.net"
+  ]
+    }
